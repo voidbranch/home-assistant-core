@@ -1,5 +1,5 @@
 blueprint:
-  name: Zone Notification
+  name: Zone Notification In
   description: Send a notification to a device when a person enters a specific zone.
   domain: automation
   source_url: https://github.com/home-assistant/core/blob/dev/homeassistant/components/automation/blueprints/notify_entering_zone.yaml
